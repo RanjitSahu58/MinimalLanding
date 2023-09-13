@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body {
+   width: 100%;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainone {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1459278558918-f94278c0f022?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topline {
+    text-align: center;
+    padding-top: 130px;
+    
+}
+
+.topline .one {
+    padding-right: 25px;
+}
+.topline .two {
+    padding-left: 25px;
+}
+
+.topline a {
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+}
+
+.topline h1 {
+    color: white;
+    padding-top: 20px;
+    font-size: 45px;
+    font-size: 165px;
+    text-transform: uppercase;
+    letter-spacing: 12px; 
+}
+
+.middleone {
+    color: whitesmoke;
+    margin-left: 22px;
+   
+}
+
+.mainone .upperleft {
+    width: 5vw;
+    height: 0.2vh;
+    background-color: whitesmoke;
+    margin: 0px 382px;
+}
+
+.mainone .lowerleft {
+    width: 5vw;
+    height: 0.2vh;
+    background-color: whitesmoke;
+    margin: 4px 382px;
+}
+
+.middleone .tagaa {
+    display: flex;
+    margin: -24px 470px;
+}
+
+.design {
+    font-size: 29px;
+    text-transform: uppercase;
+}
+ .tagaa .vertione {
+    width: 0.1vw;
+    height: 4vh;
+    background-color: whitesmoke;
+    margin: 2px 15px;
+}
+.develop {
+    font-size: 29px;
+    margin-top: 1px;
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+.tagaa .vertitwo {
+    width: 0.1vw;
+    height: 4vh;
+    background-color: whitesmoke;
+    margin: 2px 15px;
+}
+.success {
+    font-size: 29px;
+    margin-top: 1px;
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+
+.mainone .upperright {
+    width: 5vw;
+    height: 0.2vh;
+    background-color: whitesmoke;
+    margin: 2px 1028px;
+}
+.mainone .lowerright {
+    width: 5vw;
+    height: 0.2vh;
+    background-color: whitesmoke;
+    margin: 4px 1028px;
+}
+
+.aftermid {
+    margin: 35px 630px;
+    font-size: 22px;
+    color: whitesmoke;
+}
+.aftermid .coden {
+    padding-right:16px ;
+}
+.aftermid img {
+    height: 25px;
+}
+
+.aftermid .retro {
+    padding-left: 16px;
+}
+
+.lastone {
+    margin: 0px 720px;
+    display: flex;
+}
+
+.lastone .onne{
+    width: 50px;
+    height: 4px;
+    background-color: whitesmoke;
+    margin-top: 6px;
+    margin-right: 18px;
+}
+
+.lastone a {
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.lastone .twwo {
+    width: 50px;
+    height: 4px;
+    background-color: whitesmoke;
+    margin-top: 6px;
+    margin-left: 18px;
+}
+
+.maintwo {
+    width: 100vw;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+.navbar {
+    width: 100vw;
+    height: 10vh;
+    background-color: white;
+    scroll-behavior: initial;
+   
+}
+
+.navbar .topleft {
+    display: flex;
+    padding: 30px 122px;
+    list-style: none;
+}
+
+.topleft li {
+    padding-left: 100px;
+    font-weight: 500;
+    font-size: 15px;
+    color: rgb(56, 55, 55);
+}
+
+.midddle {
+    margin-top: -23px;
+    margin-left: 92px;
+    padding: 8px;
+    font-size: 35px;
+    border: 4px solid black;
+}
+
+.miiiiiiiddll {
+  color: rgb(18, 18, 17);
+  margin-top: 145px;
+}
+
+.miiiiiiiddll a {
+    margin-left: 470PX;
+    font-size: 46px;
+    color: rgb(24, 24, 24);
+    font-family: 'Times New Roman', Times, serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.miiiiiiiddll p {
+    margin-top: 59px;
+    margin-left: -15px;
+    font-size: 22px;
+    line-height: 30px;
+    text-align:center;
+    color: rgb(24, 24, 24);
+}
+
+.lowwwer {
+    margin: 70px 140px;
+    display: flex;
+}
+
+.lowwwer img {
+    width: 8vw;
+    margin: 12px 76px;
+    /* border-bottom: 3px solid black; */
+    padding: 20px;    
+}
+.lowwwer .firsttt {
+    width: 10vw;
+    padding-left: 0px;
+}.lowwwer .seconddd {
+    width: 10vw;
+}
+
+.border {
+    width: 80px;
+    height: 4px;  
+    background-color: black;
+    margin: -100px 244px;
+    
+}
+.border .idea00 {
+    width: 80px;
+    height: 4px;
+    background-color: black;
+    padding-left: 0px;
+}
+
+.border .design00 {
+    width: 80px;
+    height: 4px;
+    background-color: black;
+    margin-left: 310px;  
+}
+.border .development00 {
+    width: 80px;
+    height: 4px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 605px;  
+}
+.border .success00 {
+    width: 80px;
+    height: 4px;
+    background-color: black;
+    margin-top: -5px;
+    margin-left: 880px;  
+}
+
+
+.idddddea {
+    margin: 115px 0px; 
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(56, 55, 55);
+}
+
+.idddddea .firstttt {
+    margin-left: 262px;
+}
+.idddddea .secondddd {
+    margin-left: 265px;
+}
+.idddddea .thirdddd {
+    margin-left: 208px;
+}
+.idddddea .fourthhhh {
+    margin-left:184px ;
+}
+
+.mainthree {
+    width: 100vw;
+    height: 75vh;
+    background-color: rgb(15, 14, 14);
+}
+
+.mainthree {
+    display: flex;
+}
+
+.leffffty {
+    width: 40vw;
+    height: 75vh;
+    background-color: rgb(22, 21, 21);
+}
+.leffffty h1 {
+    margin: 65px 55px;
+    font-size: 52px;
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+.leffffty .stttttttt {
+    margin: -38px 55px;
+    color: rgb(151, 139, 139);
+    line-height: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+.leffffty .ndddddddd {
+    margin: 68px 55px;
+    line-height: 18px;
+    color: rgb(151, 139, 139);
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.leffffty button {
+    margin: 0px 55px;
+    border-radius: 20px;
+    border: none;
+    padding: 5px 8px;
+    background-color: whitesmoke;
+    color: rgb(72, 72, 72);
+}
+
+.rightttty {
+    width: 60vw;
+    height: 75vh;
+    background-color: rgb(22, 21, 21);
+}
+
+.rightttty .lineone {
+    display: flex;
+}
+
+.rightttty .lineone img {
+    width: 180px;
+    margin: 36px 63px;
+}
+
+.rightttty .linetwo {
+    display: flex;
+}
+
+.rightttty .linetwo img {
+    width: 180px;
+    margin: 36px 63px;
+}
+
+.rightttty .linethree {
+    display: flex;
+}
+
+.rightttty .linethree img {
+    width: 180px;
+    margin: 36px 63px;
+}
+
+.mainfour {
+    width: 100vw;
+    height: 35vh;
+    background-color: rgb(248, 248, 248);
+    padding-top: 90px;
+    text-align: center;
+}
+
+.mainfour span em {
+   margin-left: 55px;
+    color: grey;
+    font-size: 23px;
+    line-height: 33px;
+    font-family:cursive;   
+}
+
+.mainfour a {
+    line-height: 60px;
+    font-size: 16px;
+    color: rgb(106, 103, 103);
+}
+
+.mainfour .smaaaaaaaaall {
+    display: flex;
+    margin: 8px 730px;
+}
+
+.mainfour .smaaaaaaaaall .smallone {
+    width: 44px;
+    height: 5px;
+    background-color: black;
+    margin-left: 7px;
+} 
+.mainfour .smaaaaaaaaall .smalltwo {
+    width: 44px;
+    height: 5px;
+    background-color: rgb(194, 187, 187);
+    margin-left: 7px;
+} 
+.mainfour .smaaaaaaaaall .smallthree {
+    width: 44px;
+    height: 5px;
+    background-color: rgb(194, 187, 187);
+    margin-left: 7px;
+} 
+
+
+
+
+
+
+
+
